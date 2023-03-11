@@ -1,0 +1,9 @@
+﻿global using CommunityToolkit.Mvvm.ComponentModel;
+global using CommunityToolkit.Mvvm.Input;
+global using SpeedRunTV2.Model;
+global using System.Collections.ObjectModel;
+global using System.Diagnostics;
+global using SpeedRunTV2.Services;
+global using SpeedRunTV2.ViewModel;
+global using SpeedRunTV2.View;
+global using System.Windows.Input;
